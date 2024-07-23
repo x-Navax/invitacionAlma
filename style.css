@@ -13,17 +13,8 @@
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    animation: slide 50s  linear infinite alternate;
-}
-@keyframes slide {
-    0% {
-        background-position: 0 0;
-    }
-    100% {
-        background-position: 100% 0;
-    }
-}
+    background-attachment: fixed;}
+
 
 /* MODIFICACION DE ADAPTACION */
 .portada {width: 60%;
